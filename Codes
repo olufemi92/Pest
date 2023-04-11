@@ -2,3 +2,6 @@ git clone
 git add .
 git commit -m "description"
 git push origin "branch name"
+create a new branch from the main
+Hello
+How do you do?
